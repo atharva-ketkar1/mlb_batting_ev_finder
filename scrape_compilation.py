@@ -5,6 +5,7 @@ from scrapes.scrape_underdog import scrape_underdog_mlb
 import pandas as pd
 import unicodedata
 import re
+from post_game_evaluation import main as post_game_evaluation_main
 
 def fix_escaped_unicode(text):
     if pd.isna(text):
@@ -137,3 +138,4 @@ if __name__ == "__main__":
     summary_df = summary_df.sort_values(by='max_edge', ascending=False)
 
     summary_df.to_csv(f'best_picks/best_batter_picks_{date}.csv', index=False)
+    post_game_evaluation_main()
