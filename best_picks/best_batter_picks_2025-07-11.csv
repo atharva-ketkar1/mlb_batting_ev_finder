@@ -1,0 +1,31 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+ketel marte,AZ,Hits+Runs+RBIs,2.5,-104,-132,+105,−140,0.012,UNDER
+jung hoo lee,SF,Hits+Runs+RBIs,1.5,-108,-125,+105,−140,0.007,UNDER
+heliot ramos,SF,Hits+Runs+RBIs,1.5,-134,-102,−130,−105,0.004,OVER
+maikel garcia,KC,Hits+Runs+RBIs,1.5,-134,-103,−130,−105,0.004,OVER
+nick castellanos,PHI,Hits+Runs+RBIs,1.5,-125,-108,−135,+100,0.002,OVER
+alec bohm,PHI,Hits+Runs+RBIs,1.5,-134,-102,−120,−110,-0.003,OVER
+freddie freeman,LAD,Hits+Runs+RBIs,1.5,-130,-105,−125,−110,-0.004,OVER
+will smith,LAD,Hits+Runs+RBIs,1.5,-105,-130,−110,−125,-0.004,UNDER
+mark vientos,NYM,Hits+Runs+RBIs,1.5,-130,-105,−125,−110,-0.004,OVER
+jo adell,LAA,Hits+Runs+RBIs,1.5,-125,-108,−125,−105,-0.005,OVER
+tyler soderstrom,ATH,Hits+Runs+RBIs,1.5,-134,-102,−120,−115,-0.006,OVER
+kyle schwarber,PHI,Hits+Runs+RBIs,1.5,-129,-106,−120,−110,-0.007,OVER
+josh naylor,AZ,Hits+Runs+RBIs,1.5,-121,-113,−130,−105,-0.008,OVER
+eugenio suarez,AZ,Hits+Runs+RBIs,1.5,-129,-105,−120,−115,-0.009,OVER
+j.t. realmuto,PHI,Hits+Runs+RBIs,1.5,-109,-124,−110,−125,-0.009,UNDER
+luis arraez,SD,Hits+Runs+RBIs,1.5,-125,-109,−125,−110,-0.009,OVER
+willy adames,SF,Hits+Runs+RBIs,1.5,-108,-127,−115,−120,-0.012,UNDER
+rafael devers,SF,Hits+Runs+RBIs,1.5,-118,-114,−105,−130,-0.013,UNDER
+taylor ward,LAA,Hits+Runs+RBIs,1.5,-108,-125,−115,−120,-0.013,UNDER
+nolan schanuel,LAA,Hits+Runs+RBIs,1.5,-110,-124,−115,−120,-0.014,UNDER
+miguel andujar,ATH,Hits+Runs+RBIs,1.5,-112,-122,−110,−120,-0.014,UNDER
+salvador perez,KC,Hits+Runs+RBIs,1.5,-120,-113,−120,−110,-0.015,OVER
+jonathan india,KC,Hits+Runs+RBIs,1.5,-121,-113,−120,−110,-0.015,OVER
+will wagner,TOR,Hits+Runs+RBIs,1.5,-114,-120,−110,−120,-0.016,UNDER
+fernando tatis,SD,Hits+Runs+RBIs,1.5,-124,-109,−115,−115,-0.016,OVER
+manny machado,SD,Hits+Runs+RBIs,1.5,-121,-113,−120,−115,-0.017,OVER
+geraldo perdomo,AZ,Hits+Runs+RBIs,1.5,-117,-115,−120,−110,-0.018,OVER
+matt chapman,SF,Hits+Runs+RBIs,1.5,-122,-110,−110,−125,-0.022,UNDER
+ronny mauricio,NYM,Hits+Runs+RBIs,1.5,-114,-120,−120,−110,-0.022,OVER
+randal grichuk,AZ,Hits+Runs+RBIs,1.5,-118,-114,−115,−120,-0.023,UNDER
