@@ -4,7 +4,16 @@ import re
 from datetime import datetime
 from glob import glob
 from pybaseball import batting_stats_range
-from scrape_compilation import normalize_name  
+import unicodedata
+
+def normalize_name(name: str) -> str:
+    if pd.isna(name):
+        return ""
+    n = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    n = n.lower().strip()
+    n = re.sub(r"\b(jr|sr|ii|iii|iv|v)\b\.?", "", n)
+    n = re.sub(r"\s*\([^)]*\)", "", n)
+    return re.sub(r"\s+", " ", n).strip()
 
 def fetch_actual_batter_stats(slate_date):
     try:
