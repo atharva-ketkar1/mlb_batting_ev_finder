@@ -9,7 +9,7 @@ jose altuve,HOU,Hits+Runs+RBIs,1.5,-103,-134,,,0.006,UNDER
 jake cronenworth,SD,Hits+Runs+RBIs,1.5,-103,-132,,,0.005,UNDER
 wenceel perez,DET,Hits+Runs+RBIs,1.5,-103,-132,,,0.005,UNDER
 dillon dingler,DET,Hits+Runs+RBIs,1.5,-103,-132,,,0.005,UNDER
-ryan o'hearn,BAL,Hits+Runs+RBIs,1.5,-103,-132,,,0.005,UNDER
+ryan ohearn,BAL,Hits+Runs+RBIs,1.5,-103,-132,,,0.005,UNDER
 jesus sanchez,MIA,Hits+Runs+RBIs,1.5,-132,-103,,,0.005,OVER
 mike yastrzemski,SF,Hits+Runs+RBIs,1.5,-104,-132,,,0.004,UNDER
 jo adell,LAA,Hits+Runs+RBIs,1.5,-104,-132,,,0.004,UNDER
@@ -41,7 +41,7 @@ gunnar henderson,BAL,Hits+Runs+RBIs,1.5,-125,-108,,,-0.007,OVER
 brenton doyle,COL,Hits+Runs+RBIs,1.5,-125,-108,,,-0.007,OVER
 lourdes gurriel,AZ,Hits+Runs+RBIs,1.5,-125,-108,,,-0.007,OVER
 spencer torkelson,DET,Hits+Runs+RBIs,1.5,-125,-108,,,-0.007,OVER
-isiah kiner-falefa,PIT,Hits+Runs+RBIs,1.5,-108,-125,,,-0.007,UNDER
+isiah kinerfalefa,PIT,Hits+Runs+RBIs,1.5,-108,-125,,,-0.007,UNDER
 dylan moore,SEA,Hits+Runs+RBIs,0.5,-125,-108,,,-0.007,OVER
 miguel vargas,CWS,Hits+Runs+RBIs,1.5,-108,-125,,,-0.007,UNDER
 masataka yoshida,BOS,Hits+Runs+RBIs,1.5,-125,-109,,,-0.008,OVER
@@ -64,7 +64,7 @@ jordan westburg,BAL,Hits+Runs+RBIs,1.5,-122,-112,,,-0.014,OVER
 josh lowe,TB,Hits+Runs+RBIs,1.5,-112,-122,,,-0.014,UNDER
 zach neto,LAA,Hits+Runs+RBIs,1.5,-121,-112,,,-0.015,OVER
 carlos correa,MIN,Hits+Runs+RBIs,2.5,-112,-121,,,-0.015,UNDER
-ke'bryan hayes,PIT,Hits+Runs+RBIs,1.5,-121,-112,,,-0.015,OVER
+kebryan hayes,PIT,Hits+Runs+RBIs,1.5,-121,-112,,,-0.015,OVER
 nick kurtz,ATH,Hits+Runs+RBIs,1.5,-112,-121,,,-0.015,UNDER
 lawrence butler,ATH,Hits+Runs+RBIs,1.5,-112,-121,,,-0.015,UNDER
 heliot ramos,SF,Hits+Runs+RBIs,1.5,-121,-113,,,-0.016,OVER
@@ -85,5 +85,5 @@ ernie clement,TOR,Hits+Runs+RBIs,1.5,-115,-118,,,-0.021,UNDER
 jac caglianone,KC,Hits+Runs+RBIs,1.5,-115,-118,,,-0.021,UNDER
 jasson dominguez,NYY,Hits+Runs+RBIs,1.5,-115,-118,,,-0.021,UNDER
 cal raleigh,SEA,Hits+Runs+RBIs,1.5,-117,-115,,,-0.022,OVER
-pete crow-armstrong,CHC,Hits+Runs+RBIs,1.5,-115,-118,−120,−115,-0.023,OVER
+pete crowarmstrong,CHC,Hits+Runs+RBIs,1.5,-115,-118,−120,−115,-0.023,OVER
 brandon lowe,TB,Hits+Runs+RBIs,1.5,,,,,,N/A Both

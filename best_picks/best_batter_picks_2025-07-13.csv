@@ -1,5 +1,5 @@
 player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion,Actual_HRR,Result
-ronald acuna,ATL,Hits+Runs+RBIs,1.5,-136.0,100.0,,,0.012,OVER,,
+ronald acuna,ATL,Hits+Runs+RBIs,1.5,-136.0,100.0,,,0.012,OVER,0.0,MISS
 romy gonzalez,BOS,Hits+Runs+RBIs,1.5,-107.0,-127.0,+105,−145,0.01,UNDER,0.0,HIT
 lawrence butler,ATH,Hits+Runs+RBIs,1.5,-139.0,103.0,−130,−105,0.009,OVER,1.0,MISS
 brice turang,MIL,Hits+Runs+RBIs,1.5,-136.0,100.0,−125,−105,0.004,OVER,3.0,HIT
@@ -17,13 +17,13 @@ andrew mccutchen,PIT,Hits+Runs+RBIs,1.5,-134.0,-102.0,−125,−110,-0.001,OVER,
 trevor larnach,MIN,Hits+Runs+RBIs,1.5,-127.0,-108.0,−130,−105,-0.002,OVER,0.0,MISS
 zach neto,LAA,Hits+Runs+RBIs,1.5,-132.0,-103.0,−125,−110,-0.002,OVER,2.0,HIT
 jonathan india,KC,Hits+Runs+RBIs,1.5,-121.0,-112.0,−135,+100,-0.002,OVER,2.0,HIT
-luis arraez,SD,Hits+Runs+RBIs,1.5,-134.0,-102.0,−120,−110,-0.003,OVER,,
+luis arraez,SD,Hits+Runs+RBIs,1.5,-134.0,-102.0,−120,−110,-0.003,OVER,0.0,MISS
 kyle stowers,MIA,Hits+Runs+RBIs,1.5,-121.0,-113.0,−135,+100,-0.003,OVER,15.0,HIT
 kyle schwarber,PHI,Hits+Runs+RBIs,1.5,-109.0,-125.0,−105,−130,-0.004,UNDER,0.0,HIT
 corey seager,TEX,Hits+Runs+RBIs,1.5,-109.0,-124.0,−105,−130,-0.004,UNDER,0.0,HIT
 tyler soderstrom,ATH,Hits+Runs+RBIs,1.5,-114.0,-120.0,−140,+105,-0.004,OVER,4.0,HIT
 andy pages,LAD,Hits+Runs+RBIs,1.5,-109.0,-124.0,−105,−130,-0.004,UNDER,2.0,MISS
-ryan o'hearn,BAL,Hits+Runs+RBIs,1.5,-105.0,-130.0,−110,−125,-0.004,UNDER,,
+ryan o'hearn,BAL,Hits+Runs+RBIs,1.5,-105.0,-130.0,−110,−125,-0.004,UNDER,0.0,HIT
 jackson holliday,BAL,Hits+Runs+RBIs,1.5,-118.0,-115.0,−135,+100,-0.005,OVER,1.0,MISS
 elly de la cruz,CIN,Hits+Runs+RBIs,2.5,-110.0,-124.0,−105,−130,-0.005,UNDER,2.0,HIT
 maikel garcia,KC,Hits+Runs+RBIs,1.5,-129.0,-106.0,−125,−110,-0.005,OVER,2.0,HIT
@@ -39,17 +39,17 @@ alejandro osuna,TEX,Hits+Runs+RBIs,0.5,-114.0,-120.0,−135,+100,-0.009,OVER,1.0
 andrew benintendi,CWS,Hits+Runs+RBIs,1.5,-105.0,-130.0,−115,−120,-0.009,UNDER,5.0,MISS
 roman anthony,BOS,Hits+Runs+RBIs,1.5,-112.0,-122.0,−105,−125,-0.009,UNDER,2.0,MISS
 taylor ward,LAA,Hits+Runs+RBIs,1.5,-110.0,-122.0,−110,−125,-0.01,UNDER,0.0,HIT
-teoscar hernandez,LAD,Hits+Runs+RBIs,1.5,-115.0,-118.0,−105,−130,-0.01,UNDER,,
+teoscar hernandez,LAD,Hits+Runs+RBIs,1.5,-115.0,-118.0,−105,−130,-0.01,UNDER,2.0,MISS
 pete alonso,NYM,Hits+Runs+RBIs,1.5,-125.0,-108.0,−120,−110,-0.01,OVER,0.0,MISS
 geraldo perdomo,AZ,Hits+Runs+RBIs,1.5,-110.0,-124.0,−110,−125,-0.01,UNDER,2.0,MISS
-ramon laureano,BAL,Hits+Runs+RBIs,1.5,-103.0,-132.0,−120,−115,-0.012,UNDER,,
+ramon laureano,BAL,Hits+Runs+RBIs,1.5,-103.0,-132.0,−120,−115,-0.012,UNDER,4.0,MISS
 alex jackson,BAL,Hits+Runs+RBIs,0.5,-118.0,-115.0,−125,−105,-0.012,OVER,0.0,MISS
 gleyber torres,DET,Hits+Runs+RBIs,1.5,-113.0,-121.0,−110,−125,-0.013,UNDER,4.0,MISS
 aaron judge,NYY,Hits+Runs+RBIs,2.5,-112.0,-122.0,−110,−120,-0.014,UNDER,0.0,HIT
 thomas saggese,STL,Hits+Runs+RBIs,1.5,-112.0,-122.0,,,-0.014,UNDER,0.0,HIT
 nolan schanuel,LAA,Hits+Runs+RBIs,1.5,-127.0,-107.0,−115,−115,-0.014,OVER,0.0,MISS
 giancarlo stanton,NYY,Hits+Runs+RBIs,1.5,-121.0,-113.0,−120,−110,-0.015,OVER,3.0,HIT
-eugenio suarez,AZ,Hits+Runs+RBIs,1.5,-124.0,-110.0,−115,−115,-0.017,OVER,,
+eugenio suarez,AZ,Hits+Runs+RBIs,1.5,-124.0,-110.0,−115,−115,-0.017,OVER,3.0,HIT
 brenton doyle,COL,Hits+Runs+RBIs,1.5,-122.0,-110.0,−105,−130,-0.017,UNDER,1.0,HIT
 cam smith,HOU,Hits+Runs+RBIs,1.5,-115.0,-118.0,−110,−120,-0.017,UNDER,0.0,HIT
 kody clemens,MIN,Hits+Runs+RBIs,1.5,-114.0,-120.0,−115,−120,-0.018,UNDER,0.0,HIT
@@ -62,10 +62,10 @@ edgar quero,CWS,Hits+Runs+RBIs,1.5,-122.0,-110.0,−105,−125,-0.02,UNDER,1.0,H
 chase meidroth,CWS,Hits+Runs+RBIs,1.5,-122.0,-112.0,−110,−125,-0.021,UNDER,2.0,MISS
 mickey moniak,COL,Hits+Runs+RBIs,1.5,-124.0,-110.0,−105,−125,-0.021,UNDER,3.0,MISS
 freddie freeman,LAD,Hits+Runs+RBIs,1.5,-124.0,-109.0,−110,−120,-0.021,OVER,5.0,HIT
-yoan moncada,LAA,Hits+Runs+RBIs,1.5,-109.0,-124.0,−120,−110,-0.021,UNDER,,
+yoan moncada,LAA,Hits+Runs+RBIs,1.5,-109.0,-124.0,−120,−110,-0.021,UNDER,0.0,HIT
 colt keith,DET,Hits+Runs+RBIs,1.5,-113.0,-120.0,−120,−110,-0.022,OVER,0.0,MISS
 jo adell,LAA,Hits+Runs+RBIs,1.5,-120.0,-113.0,−115,−120,-0.023,OVER,1.0,MISS
 will smith,LAD,Hits+Runs+RBIs,1.5,-114.0,-120.0,−120,−115,-0.023,UNDER,0.0,HIT
 kyle manzardo,CLE,Hits+Runs+RBIs,1.5,-110.0,-122.0,−120,−110,-0.023,UNDER,5.0,MISS
 nick castellanos,PHI,Hits+Runs+RBIs,1.5,-124.0,-109.0,−110,−125,-0.024,OVER,0.0,MISS
-SUMMARY: 31/62 - 50.0%,,,,,,,,,,,"HITS: 31, MISSES: 31, PUSHES: 0"
+SUMMARY: 32/70 - 45.7%,,,,,,,,,,,"HITS: 32, MISSES: 38, PUSHES: 0"

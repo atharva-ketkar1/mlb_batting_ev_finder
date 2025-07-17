@@ -27,7 +27,8 @@ def fetch_actual_batter_stats(slate_date):
     return logs.set_index('player_norm')['hrr'].to_dict()
 
 def evaluate_batter_file(path):
-    if 'Result' in df.columns or any(df['player'].astype(str).str.startswith('SUMMARY:')):
+    df_check = pd.read_csv(path)
+    if 'Result' in df_check.columns or any(df_check['player'].astype(str).str.startswith('SUMMARY:')):
         print(f"Skipping {os.path.basename(path)} — already evaluated.")
         return
     
