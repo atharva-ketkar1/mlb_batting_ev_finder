@@ -140,6 +140,7 @@ if __name__ == "__main__":
     summary_df = df[['player', 'team', 'stat_type', 'prizepicks_line', 
                      'over_odds_ud', 'under_odds_ud', 'dk_odds_over', 'dk_odds_under', 
                      'max_edge', 'suggestion']].copy()
+    summary_df = summary_df[summary_df['max_edge'] > 0]
     summary_df = summary_df.sort_values(by='max_edge', ascending=False)
 
     summary_df.to_csv(f'best_picks/best_batter_picks_{date}.csv', index=False)
