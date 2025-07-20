@@ -1,0 +1,6 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+shohei ohtani,LAD,Hits+Runs+RBIs,2.5,+111,-150,−105,−125,0.016,UNDER
+cooper hummel,HOU,Hits+Runs+RBIs,0.5,,,−140,+100,0.015,OVER
+jackson chourio,MIL,Hits+Runs+RBIs,1.5,-136,+100,−135,+100,0.011,OVER
+carlos correa,MIN,Hits+Runs+RBIs,2.5,+102,-137,−110,−120,0.001,UNDER
+ezequiel duran,TEX,Hits+Runs+RBIs,0.5,-130,-104,−130,−105,0.001,OVER

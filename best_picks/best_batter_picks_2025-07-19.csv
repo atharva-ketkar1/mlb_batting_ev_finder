@@ -1,21 +1,22 @@
-player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
-will smith,LAD,Hits+Runs+RBIs,1.5,+100,-136,,,0.012,UNDER
-alex bregman,BOS,Hits+Runs+RBIs,1.5,-134,-102,−135,+100,0.009,OVER
-salvador perez,KC,Hits+Runs+RBIs,1.5,-132,-103,−135,+100,0.008,OVER
-spencer torkelson,DET,Hits+Runs+RBIs,1.5,+103,-139,−105,−125,0.007,UNDER
-gavin sheets,SD,Hits+Runs+RBIs,1.5,-139,+103,−125,−105,0.007,OVER
-jasson dominguez,NYY,Hits+Runs+RBIs,1.5,+100,-136,−105,−130,0.006,UNDER
-sean murphy,ATL,Hits+Runs+RBIs,1.5,+102,-139,−110,−125,0.004,UNDER
-kebryan hayes,PIT,Hits+Runs+RBIs,1.5,-102,-134,−105,−130,0.004,UNDER
-carlos narvaez,BOS,Hits+Runs+RBIs,1.5,+100,-136,−105,−125,0.004,UNDER
-victor caratini,HOU,Hits+Runs+RBIs,1.5,-102,-134,−105,−130,0.004,UNDER
-addison barger,TOR,Hits+Runs+RBIs,1.5,-107,-127,+100,−135,0.003,UNDER
-ian happ,CHC,Hits+Runs+RBIs,1.5,-103,-132,−105,−130,0.003,UNDER
-brandon lowe,TB,Hits+Runs+RBIs,1.5,-132,-104,−130,−105,0.002,OVER
-julio rodriguez,SEA,Hits+Runs+RBIs,1.5,-125,-108,−135,+100,0.002,OVER
-rafael devers,SF,Hits+Runs+RBIs,1.5,+101,-137,−110,−125,0.002,UNDER
-teoscar hernandez,LAD,Hits+Runs+RBIs,1.5,-104,-132,−105,−130,0.002,UNDER
-nathaniel lowe,WSH,Hits+Runs+RBIs,1.5,+100,-136,−110,−125,0.001,UNDER
-luis robert,CWS,Hits+Runs+RBIs,1.5,-105,-130,−105,−130,0.001,UNDER
-carlos santana,CLE,Hits+Runs+RBIs,1.5,-105,-130,−105,−130,0.001,UNDER
-angel martinez,CLE,Hits+Runs+RBIs,1.5,,,−105,−130,0.001,UNDER
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion,Actual_HRR,Result
+will smith,LAD,Hits+Runs+RBIs,1.5,100.0,-136.0,,,0.012,UNDER,3.0,MISS
+alex bregman,BOS,Hits+Runs+RBIs,1.5,-134.0,-102.0,−135,+100,0.009,OVER,0.0,MISS
+salvador perez,KC,Hits+Runs+RBIs,1.5,-132.0,-103.0,−135,+100,0.008,OVER,3.0,HIT
+spencer torkelson,DET,Hits+Runs+RBIs,1.5,103.0,-139.0,−105,−125,0.007,UNDER,0.0,HIT
+gavin sheets,SD,Hits+Runs+RBIs,1.5,-139.0,103.0,−125,−105,0.007,OVER,0.0,MISS
+jasson dominguez,NYY,Hits+Runs+RBIs,1.5,100.0,-136.0,−105,−130,0.006,UNDER,,
+sean murphy,ATL,Hits+Runs+RBIs,1.5,102.0,-139.0,−110,−125,0.004,UNDER,5.0,MISS
+kebryan hayes,PIT,Hits+Runs+RBIs,1.5,-102.0,-134.0,−105,−130,0.004,UNDER,,
+carlos narvaez,BOS,Hits+Runs+RBIs,1.5,100.0,-136.0,−105,−125,0.004,UNDER,,
+victor caratini,HOU,Hits+Runs+RBIs,1.5,-102.0,-134.0,−105,−130,0.004,UNDER,4.0,MISS
+addison barger,TOR,Hits+Runs+RBIs,1.5,-107.0,-127.0,+100,−135,0.003,UNDER,5.0,MISS
+ian happ,CHC,Hits+Runs+RBIs,1.5,-103.0,-132.0,−105,−130,0.003,UNDER,3.0,MISS
+brandon lowe,TB,Hits+Runs+RBIs,1.5,-132.0,-104.0,−130,−105,0.002,OVER,0.0,MISS
+julio rodriguez,SEA,Hits+Runs+RBIs,1.5,-125.0,-108.0,−135,+100,0.002,OVER,,
+rafael devers,SF,Hits+Runs+RBIs,1.5,101.0,-137.0,−110,−125,0.002,UNDER,0.0,HIT
+teoscar hernandez,LAD,Hits+Runs+RBIs,1.5,-104.0,-132.0,−105,−130,0.002,UNDER,,
+nathaniel lowe,WSH,Hits+Runs+RBIs,1.5,100.0,-136.0,−110,−125,0.001,UNDER,3.0,MISS
+luis robert,CWS,Hits+Runs+RBIs,1.5,-105.0,-130.0,−105,−130,0.001,UNDER,6.0,MISS
+carlos santana,CLE,Hits+Runs+RBIs,1.5,-105.0,-130.0,−105,−130,0.001,UNDER,0.0,HIT
+angel martinez,CLE,Hits+Runs+RBIs,1.5,,,−105,−130,0.001,UNDER,,
+SUMMARY: 4/14 - 28.6%,,,,,,,,,,,"HITS: 4, MISSES: 10, PUSHES: 0"
