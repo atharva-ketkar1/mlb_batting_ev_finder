@@ -1,0 +1,9 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+pete crowarmstrong,CHC,Hits+Runs+RBIs,1.5,-103,-132,+105,−145,0.015,UNDER
+kyle tucker,CHC,Hits+Runs+RBIs,1.5,-141,+105,−125,−105,0.009,OVER
+riley greene,DET,Hits+Runs+RBIs,1.5,+103,-139,−105,−125,0.007,UNDER
+salvador perez,KC,Hits+Runs+RBIs,1.5,+101,-136,−105,−130,0.007,UNDER
+adolis garcia,TEX,Hits+Runs+RBIs,1.5,-106,-129,+100,−135,0.005,UNDER
+nick kurtz,ATH,Hits+Runs+RBIs,1.5,-134,-103,−130,−105,0.004,OVER
+carson kelly,CHC,Hits+Runs+RBIs,1.5,-108,-125,+100,−135,0.002,UNDER
+brendan donovan,STL,Hits+Runs+RBIs,2.5,-105,-130,−105,−130,0.001,UNDER
