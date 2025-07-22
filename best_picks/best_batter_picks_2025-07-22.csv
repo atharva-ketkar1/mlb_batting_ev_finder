@@ -1,0 +1,8 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+ozzie albies,ATL,Hits+Runs+RBIs,1.5,-137,+101,−135,+100,0.012,OVER
+giancarlo stanton,NYY,Hits+Runs+RBIs,1.5,,,−135,+100,0.011,OVER
+otto kemp,PHI,Hits+Runs+RBIs,1.5,-105,-130,+100,−135,0.006,UNDER
+bobby witt,KC,Hits+Runs+RBIs,1.5,-141,+104,−125,−110,0.006,OVER
+mauricio dubon,HOU,Hits+Runs+RBIs,1.5,-102,-134,−105,−130,0.004,UNDER
+jazz chisholm,NYY,Hits+Runs+RBIs,1.5,-105,-130,+100,−130,0.004,UNDER
+ramon laureano,BAL,Hits+Runs+RBIs,1.5,-103,-134,−105,−130,0.004,UNDER
