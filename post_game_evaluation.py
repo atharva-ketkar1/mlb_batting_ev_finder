@@ -7,13 +7,18 @@ from pybaseball import batting_stats_range
 import unicodedata
 
 def normalize_name(name: str) -> str:
-    if pd.isna(name):
+    if not isinstance(name, str):
         return ""
-    n = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
-    n = n.lower().strip()
-    n = re.sub(r"\b(jr|sr|ii|iii|iv|v)\b\.?", "", n)
-    n = re.sub(r"\s*\([^)]*\)", "", n)
-    return re.sub(r"\s+", " ", n).strip()
+
+    name = unicodedata.normalize('NFD', name)
+    name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
+
+    name = name.lower()
+    name = re.sub(r'\b(jr|sr|ii|iii|iv|v)\b', '', name)
+    name = re.sub(r'[^a-z\s]', '', name)  
+    name = re.sub(r'\s+', ' ', name).strip() 
+
+    return name
 
 def fetch_actual_batter_stats(slate_date):
     try:

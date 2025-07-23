@@ -1,8 +1,9 @@
-player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
-ozzie albies,ATL,Hits+Runs+RBIs,1.5,-137,+101,−135,+100,0.012,OVER
-giancarlo stanton,NYY,Hits+Runs+RBIs,1.5,,,−135,+100,0.011,OVER
-otto kemp,PHI,Hits+Runs+RBIs,1.5,-105,-130,+100,−135,0.006,UNDER
-bobby witt,KC,Hits+Runs+RBIs,1.5,-141,+104,−125,−110,0.006,OVER
-mauricio dubon,HOU,Hits+Runs+RBIs,1.5,-102,-134,−105,−130,0.004,UNDER
-jazz chisholm,NYY,Hits+Runs+RBIs,1.5,-105,-130,+100,−130,0.004,UNDER
-ramon laureano,BAL,Hits+Runs+RBIs,1.5,-103,-134,−105,−130,0.004,UNDER
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion,Actual_HRR,Result
+ozzie albies,ATL,Hits+Runs+RBIs,1.5,-137.0,101.0,−135,+100,0.012,OVER,1.0,MISS
+giancarlo stanton,NYY,Hits+Runs+RBIs,1.5,,,−135,+100,0.011,OVER,0.0,MISS
+otto kemp,PHI,Hits+Runs+RBIs,1.5,-105.0,-130.0,+100,−135,0.006,UNDER,1.0,HIT
+bobby witt,KC,Hits+Runs+RBIs,1.5,-141.0,104.0,−125,−110,0.006,OVER,1.0,MISS
+mauricio dubon,HOU,Hits+Runs+RBIs,1.5,-102.0,-134.0,−105,−130,0.004,UNDER,2.0,MISS
+jazz chisholm,NYY,Hits+Runs+RBIs,1.5,-105.0,-130.0,+100,−130,0.004,UNDER,5.0,MISS
+ramon laureano,BAL,Hits+Runs+RBIs,1.5,-103.0,-134.0,−105,−130,0.004,UNDER,3.0,MISS
+SUMMARY: 1/7 - 14.3%,,,,,,,,,,,"HITS: 1, MISSES: 6, PUSHES: 0"

@@ -1,0 +1,8 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+nick castellanos,PHI,Hits+Runs+RBIs,1.5,-159,+116,−135,+100,0.029,OVER
+jackson holliday,BAL,Hits+Runs+RBIs,1.5,-150,+110,−120,−110,0.01,OVER
+william contreras,MIL,Hits+Runs+RBIs,1.5,-106,-129,+100,−135,0.005,UNDER
+trevor story,BOS,Hits+Runs+RBIs,1.5,+101,-137,−105,−125,0.005,UNDER
+alex bregman,BOS,Hits+Runs+RBIs,1.5,-127,-107,−135,+100,0.003,OVER
+paul goldschmidt,NYY,Hits+Runs+RBIs,1.5,-134,-103,−125,−105,0.001,OVER
+lawrence butler,ATH,Hits+Runs+RBIs,1.5,-103,-132,−105,−125,0.001,UNDER
