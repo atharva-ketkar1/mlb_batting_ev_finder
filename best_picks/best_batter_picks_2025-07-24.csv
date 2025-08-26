@@ -1,7 +1,8 @@
-player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
-christian walker,HOU,Hits+Runs+RBIs,1.5,-143,+106,−130,−105,0.012,OVER
-maikel garcia,KC,Hits+Runs+RBIs,1.5,-134,-102,,,0.008,OVER
-francisco lindor,NYM,Hits+Runs+RBIs,1.5,-134,-103,,,0.006,OVER
-angel martinez,CLE,Hits+Runs+RBIs,1.5,-130,-104,,,0.002,OVER
-yoan moncada,LAA,Hits+Runs+RBIs,1.5,,,−130,−105,0.001,OVER
-nolan schanuel,LAA,Hits+Runs+RBIs,1.5,,,−130,−105,0.001,OVER
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion,Actual_HRR,Result
+christian walker,HOU,Hits+Runs+RBIs,1.5,-143.0,106.0,−130,−105,0.012,OVER,1.0,MISS
+maikel garcia,KC,Hits+Runs+RBIs,1.5,-134.0,-102.0,,,0.008,OVER,,
+francisco lindor,NYM,Hits+Runs+RBIs,1.5,-134.0,-103.0,,,0.006,OVER,,
+angel martinez,CLE,Hits+Runs+RBIs,1.5,-130.0,-104.0,,,0.002,OVER,,
+yoan moncada,LAA,Hits+Runs+RBIs,1.5,,,−130,−105,0.001,OVER,,
+nolan schanuel,LAA,Hits+Runs+RBIs,1.5,,,−130,−105,0.001,OVER,3.0,HIT
+SUMMARY: 1/2 - 50.0%,,,,,,,,,,,"HITS: 1, MISSES: 1, PUSHES: 0"

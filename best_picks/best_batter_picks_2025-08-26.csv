@@ -1,0 +1,14 @@
+player,team,stat_type,prizepicks_line,over_odds_ud,under_odds_ud,dk_odds_over,dk_odds_under,max_edge,suggestion
+ceddanne rafaela,BOS,Hits+Runs+RBIs,1.5,-103,-134,+105,−140,0.014,UNDER
+corbin carroll,AZ,Hits+Runs+RBIs,1.5,-106,-129,+105,−145,0.012,UNDER
+masyn winn,STL,Hits+Runs+RBIs,1.5,-102,-134,+100,−135,0.009,UNDER
+colt keith,DET,Hits+Runs+RBIs,1.5,-134,-102,−135,+100,0.009,OVER
+carson kelly,CHC,Hits+Runs+RBIs,1.5,-103,-134,+100,−135,0.009,UNDER
+addison barger,TOR,Hits+Runs+RBIs,1.5,-134,-103,−135,+100,0.009,OVER
+mike trout,LAA,Hits+Runs+RBIs,1.5,-136,+101,−130,−105,0.007,OVER
+manny machado,SD,Hits+Runs+RBIs,1.5,-130,-104,−135,+100,0.006,OVER
+colson montgomery,CWS,Hits+Runs+RBIs,1.5,-104,-130,+100,−135,0.006,UNDER
+alejandro kirk,TOR,Hits+Runs+RBIs,1.5,-134,-103,−130,−105,0.004,OVER
+junior caminero,TB,Hits+Runs+RBIs,1.5,-125,-108,−135,+100,0.002,OVER
+will smith,LAD,Hits+Runs+RBIs,1.5,-130,-105,,,0.001,OVER
+jo adell,LAA,Hits+Runs+RBIs,1.5,-132,-103,−125,−105,0.001,OVER
